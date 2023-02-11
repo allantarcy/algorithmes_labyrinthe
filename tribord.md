@@ -1,4 +1,4 @@
-# Stratégie de résolution 'tribord'
+# Algorithme 'tribord'
 
 *Cette stratégie de résolution s'appuie sur un unique robot qui tournera toujours à droite en cas de choix.*
 
